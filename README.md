@@ -2,27 +2,29 @@
 <h1 align="center"><b>Hi , I'm Tenzin Norzang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kuzu+Zangpo!...&hearts;++;Quality+Asuurance+Front-End+Developer,;Information+Technologist;+Newbie,;Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Kuzu+Zangpo!...&hearts;++;Quality+Asuurance,+Front-End+Developer;+Newbie,;Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
-
-
-
-	
+ 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /></picture>
 
 <br>
-
-- A passionate Coder!!!
-- Currently learning Web Development
-- From Bhutan
-- I’m currently working in a software development Company.
+<h1><strong>About Me</strong></h1
+    <ul>
+        <li>A passionate Coder!!!</li>
+        <li>Currently learning Web Development</li>
+        <li>From Bhutan</li>
+        <li>I’m currently working in a software development Company.</li>
+    </ul>
 
 <br><br>
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -67,53 +69,9 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
-
 </p>
-
-<br>
-<br>
-
------
-
-<br>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<!-- LInked In List -->
-
-<br>
-	
-</ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
