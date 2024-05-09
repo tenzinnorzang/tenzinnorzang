@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Tenzin Norzang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=aqua&size=30&center=true&vCenter=true&width=600&height=100&lines=སྐུ་གཟུགས་བཟང་པོ་ལགས།+;Quality+Assurance;+Front-End+Developer;Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=aqua&size=30&center=true&vCenter=true&width=600&height=100&lines=སྐུ་གཟུགས་བཟང་པོ་ལགས།+;Cyber+Security+Analyst;Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
@@ -14,10 +14,9 @@
 <br>
 <h1><strong>About Me</strong></h1
     <ul>
-        <li>A passionate Coder!!!</li>
-        <li>Currently learning Web Development</li>
+        <li>Network and Security Engineer</li>
+        <li>CyberSecurity Analyst</li>
         <li>From Bhutan. <img height="20px" width=30px src="https://1.bp.blogspot.com/-4yy3vpxt1Ps/YDFzQXAYd5I/AAAAAAAA31U/Pds6G_8QQwYvAyelHUgdJ3CrLaIvl2vYACLcBGAsYHQ/s0/Flag_of_Bhutan.gif" /></li>
-        <li>I’m currently working in a software development Company.</li>
     </ul>
 
 <br><br>
