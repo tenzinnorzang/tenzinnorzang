@@ -37,7 +37,6 @@
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Rust](https://img.shields.io/badge/Rust%20-%2314354C.svg?style=for-the-badge&logo=rust&logoColor=white)
     
-
 <br>   
     
 - **Front-End Development**:
@@ -47,13 +46,9 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ColD.png" alt="TryHackMe">
-<br>
 
 - **Cloud Hosting**:
-
   
-    
 <br>
 
 - **Softwares and Tools**:
@@ -68,7 +63,16 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<br>
+
+- **Badges**:
+  
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ColD.png" alt="TryHackMe">
+    
+<br>
+
 </p>
 </div>
 
