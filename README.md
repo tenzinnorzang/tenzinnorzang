@@ -21,7 +21,6 @@
 
 <br><br>
 
-<script src="https://tryhackme.com/badge/3048747"></script>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -47,6 +46,8 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ColD.png" alt="TryHackMe">
 <br>
 
 - **Cloud Hosting**:
